@@ -75,4 +75,3 @@ This project is for private use only. See `LICENSE` file for more details. (If a
 <p align="center">
   Made with ❤️ for the community.
 </p>
-# buku--emak
